@@ -38,7 +38,7 @@ namespace Tyuiu.IvanovSI.Sprint3.Task4.V7
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
-            Console.WriteLine("****************************************************************************");
+            Console.WriteLine("****************************************************************************"); 
             Console.WriteLine("Произведение ряда =  " + ds.Calculate(startValue,stopValue));
 
             Console.ReadKey();
