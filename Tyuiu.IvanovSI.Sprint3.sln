@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{43908C28-2AA2-46BA-AB9D-7F8CBAFDF168}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{43908C28-2AA2-46BA-AB9D-7F8CBAFDF168}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task4.V7", "Tyuiu.IvanovSI.Sprint3.Task4.V7\Tyuiu.IvanovSI.Sprint3.Task4.V7.csproj", "{79E58C00-8935-467F-9153-836160BD61E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task5.V7", "Tyuiu.IvanovSI.Sprint3.Task4.V7\Tyuiu.IvanovSI.Sprint3.Task5.V7.csproj", "{79E58C00-8935-467F-9153-836160BD61E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task4.V7.Test", "Tyuiu.IvanovSI.Sprint3.Task4.V7.Test\Tyuiu.IvanovSI.Sprint3.Task4.V7.Test.csproj", "{0208BBFE-81C3-49AC-8EA8-E08C00C919C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task5.V7.Test", "Tyuiu.IvanovSI.Sprint3.Task4.V7.Test\Tyuiu.IvanovSI.Sprint3.Task5.V7.Test.csproj", "{0208BBFE-81C3-49AC-8EA8-E08C00C919C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task4.V7.Lib", "Tyuiu.IvanovSI.Sprint3.Task4.V7.Lib\Tyuiu.IvanovSI.Sprint3.Task4.V7.Lib.csproj", "{A4605D66-9AC2-4D25-9787-ECEDDD4224A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task5.V7.Lib", "Tyuiu.IvanovSI.Sprint3.Task4.V7.Lib\Tyuiu.IvanovSI.Sprint3.Task5.V7.Lib.csproj", "{A4605D66-9AC2-4D25-9787-ECEDDD4224A3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{0550D581-1D3F-47FD-934B-A1D852AC100E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{0550D581-1D3F-47FD-934B-A1D852AC100E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task5.V18", "Tyuiu.IvanovSI.Sprint3.Task5.V18\Tyuiu.IvanovSI.Sprint3.Task5.V18.csproj", "{F3FF5159-5CC0-4868-AE62-BCD8164037A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task6.V18", "Tyuiu.IvanovSI.Sprint3.Task5.V18\Tyuiu.IvanovSI.Sprint3.Task6.V18.csproj", "{F3FF5159-5CC0-4868-AE62-BCD8164037A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task5.V18.Lib", "Tyuiu.IvanovSI.Sprint3.Task5.V18.Lib\Tyuiu.IvanovSI.Sprint3.Task5.V18.Lib.csproj", "{BA33CF15-09CB-4B40-8F64-22CFBE165E99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task6.V18.Lib", "Tyuiu.IvanovSI.Sprint3.Task5.V18.Lib\Tyuiu.IvanovSI.Sprint3.Task6.V18.Lib.csproj", "{BA33CF15-09CB-4B40-8F64-22CFBE165E99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task5.V18.Test", "Tyuiu.IvanovSI.Sprint3.Task5.V18.Test\Tyuiu.IvanovSI.Sprint3.Task5.V18.Test.csproj", "{255208A9-BA46-4EEC-AD4D-F0E20536189B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSI.Sprint3.Task6.V18.Test", "Tyuiu.IvanovSI.Sprint3.Task5.V18.Test\Tyuiu.IvanovSI.Sprint3.Task6.V18.Test.csproj", "{255208A9-BA46-4EEC-AD4D-F0E20536189B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{0C6FE7AC-28D8-42BF-96BA-F0EB30520098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
